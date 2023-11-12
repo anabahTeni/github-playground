@@ -1,0 +1,8 @@
+# exclude one file from git
+example.txt
+
+#exclude all files with .txt extension
+*.txt
+
+#exclude file in this folder
+example
